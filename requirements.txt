@@ -1,0 +1,39 @@
+# Core LLM and streaming interface
+streamlit
+
+# LangChain ecosystem
+langchain
+langchain-core
+langchain-openai
+
+# OpenAI LLM client (required by LangChain)
+openai
+
+# HTTP transport compatibility
+httpx
+
+# Data models and validation
+pydantic
+pydantic-core
+
+# Image processing for any visual input features
+pillow
+
+# Text splitting and streaming support
+langchain-text-splitters
+langsmith
+
+# Environment variable loader
+python-dotenv
+
+# Google-style caching
+cachetools
+
+# Hugging Face Transformers and tokenizers
+transformers
+huggingface-hub
+
+# PyTorch for model support
+torch
+
+
